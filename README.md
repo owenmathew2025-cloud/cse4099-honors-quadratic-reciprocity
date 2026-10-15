@@ -1,1 +1,2 @@
 # cse4099-honors-quadratic-reciprocity
+This 1-credit Honors independent study focuses on bridging abstract mathematical structures from discrete systems with functional software development. The student will design and deploy a modular Python package capable of evaluating Legendre and Jacobi symbols, testing for quadratic residues, and executing cryptographic schemes like Goldwasser-Micali encryption. The course follows a 14-week milestones track, managing process iteratively inside a version-controlled Git repository with documentation and thorough unit testing.
